@@ -1,1 +1,1 @@
-# image-project
+# image-project app
